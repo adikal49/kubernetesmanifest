@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: adicop49/test:latest
+      - image: adicop49/test
         name: flaskdemo
         resources: {}
 status: {}
